@@ -4,7 +4,7 @@
 (This file generated from the board:)
 (.../CGS Subosc/eagle/cgs_subosc.brd)
 (Current profile is .../pcbgcode.repo/profiles/mach.pp  )
-(This file generated 12/29/15 1:04 PM)
+(This file generated 12/29/15 4:24 PM)
 (Settings from pcb-machine.h)
 (spindle on time = 0.0000)
 (spindle speed = 15000.0000)

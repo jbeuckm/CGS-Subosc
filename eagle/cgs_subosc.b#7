@@ -1817,9 +1817,10 @@ design rules under a new name.</description>
 <wire x1="62.611" y1="15.875" x2="64.389" y2="17.653" width="0.8128" layer="16"/>
 <wire x1="71.12" y1="17.272" x2="74.422" y2="14.986" width="0.8128" layer="16"/>
 <wire x1="74.422" y1="14.986" x2="77.47" y2="11.938" width="0.8128" layer="16"/>
-<wire x1="64.77" y1="17.526" x2="70.612" y2="16.764" width="0.8128" layer="16"/>
 <wire x1="70.612" y1="16.764" x2="71.12" y2="17.272" width="0.8128" layer="16"/>
 <wire x1="71.12" y1="17.272" x2="67.31" y2="20.32" width="0.8128" layer="16"/>
+<wire x1="64.77" y1="17.526" x2="64.77" y2="17.78" width="0.8128" layer="16"/>
+<wire x1="64.77" y1="17.78" x2="67.31" y2="20.32" width="0.8128" layer="16"/>
 </signal>
 <signal name="N$8">
 <contactref element="C3" pad="2"/>
